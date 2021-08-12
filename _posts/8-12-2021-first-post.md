@@ -3,7 +3,11 @@ layout: post
 title: First Blog Post!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello! My name is Evan and I am making this as a practice for blogging on GitHub!
+
+I love sports and first got interested in programming and statistics because of this.
+
+NC State, Chicago Cubs, Chicago Bears, and the Chicago Bulls take up most of my free time in one way or another. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
