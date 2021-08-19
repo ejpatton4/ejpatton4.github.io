@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Scientists are Just Staisticains Right?
+title: Data Scientists are Just Statisticians Right?
 ---
 
 
@@ -18,6 +18,6 @@ I am in the process of applying to the [Institute for Advanced Analytics at Nort
 
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/me_and_tuffy.jpg)
 
 
