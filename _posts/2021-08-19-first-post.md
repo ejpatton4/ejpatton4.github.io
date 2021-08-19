@@ -1,19 +1,12 @@
 ---
 layout: post
-title: First Blog Post!
+title: Data Scientists are Just Staisticains Right?
 ---
-
-Hello! My name is Evan and I am making this blog as an assignemnt for ST 558!
-
-
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 
 ## What is Data Science and What do Data Scientists Need to Know?
 
-Data science is a bit of an ambiguous term. When I tell people close to me that becoming a data scientist is a career ambition of mine I am often met with questions about what exactly that is and my response is usually, *“If statistics and computer science came together and had a baby, that baby would be data science.”* I also like how [this](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f) article describes it which is, *“A data scientist is someone who is better at statistics than any software engineer and better at software engineering than any statistician.”* Both of these quotes are getting at the same idea, a data scientist is someone who uses computer programming (usually the R, SAS, or Python programming languages) to apply statistical analysis techniques to derive some insights about data. Is a data scientist a statistician? Not exactly. Is a data scientist a computer scientist? Not exactly. However, a data scientist needs to know enough about both of these areas to converse with people who are those things and to meld them together perfectly for the problem they are trying to solve.
+Data science is a bit of an ambiguous term. When I tell people close to me that becoming a data scientist is a career ambition of mine I am often met with questions about what exactly that is and my response is usually, *“If statistics and computer science came together and had a baby, that baby would be data science.”* I also like how [this article](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f) describes it which is, *“A data scientist is someone who is better at statistics than any software engineer and better at software engineering than any statistician.”* Both of these quotes are getting at the same idea, a data scientist is someone who uses computer programming (usually the R, SAS, or Python programming languages) to apply statistical analysis techniques to derive some insights about data. Is a data scientist a statistician? Not exactly. Is a data scientist a computer scientist? Not exactly. However, a data scientist needs to know enough about both of these areas to converse with people who are those things and to meld them together perfectly for the problem they are trying to solve.
 
 ## Comparing Data Scientist and Statisticians.
 
@@ -25,5 +18,6 @@ I am in the process of applying to the [Institute for Advanced Analytics at Nort
 
 
 
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
