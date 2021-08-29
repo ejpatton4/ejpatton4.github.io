@@ -24,7 +24,7 @@ Here is a picture of the most photogenic dog on the planet, my Chocolate Labrado
 
 ![Whiskey]({{ site.baseurl }}/images/Whiskey.png)
 
-### Contact me
+### Contact and Follow me
 
 [ejpatton@ncsu.edu](mailto:ejpatton@ncsu.edu)  
 [ejpatton4@gmail.com](mailto:ejpatton4@gmail.com)  
