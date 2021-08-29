@@ -26,7 +26,7 @@ Here is a picture of the most photogenic dog on the planet, my choclate labrador
 
 ### Contact me
 
-[ejpatton@ncsu.edu](mailto:ejpatton@ncsu.edu)
-[ejpatton4@gmail.com](mailto:ejpatton4@gmail.com)
-[Personal Twitter](https://twitter.com/evanjpatton4)
-[Twitter for Sports Analytics](https://twitter.com/beaR_alytics) 
+[ejpatton@ncsu.edu](mailto:ejpatton@ncsu.edu)  
+[ejpatton4@gmail.com](mailto:ejpatton4@gmail.com)  
+[Personal Twitter](https://twitter.com/evanjpatton4)  
+[Twitter for Sports Analytics](https://twitter.com/beaR_alytics)   
