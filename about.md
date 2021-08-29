@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About Me!
+title: About Me
 permalink: /about/
 ---
 ## General
 
 Hi! My name is Evan Patton and I am creating this GitHub Blog as an assignment for **ST 558** at *NC State University*.
 
-I graduated from NC State in 2018 with a degree in Business Administration - Finance, right around the time I graduated however, I realzied I was more interested in statistics and data science. Since that point I have been working to get into that field of study, hence why I am in this course! 
-Currently I am in the [Applied Statistics and Data Management Graduate Certificate Progam](https://online-distance.ncsu.edu/program/graduate-certificate-in-applied-statistics-and-data-management/) for which this is my last course. Sometime in the next few weeks I will be applying to the [Masters of Science in Analytics](https://analytics.ncsu.edu/) program also here at NCSU. After that I hope to start my career in sports analytics.
+I graduated from NC State in 2018 with a degree in Business Administration - Finance, right around the time I graduated however, I realized I was more interested in statistics and data science. Since that point I have been working to get into that field of study, hence why I am in this course! 
+Currently I am in the [Applied Statistics and Data Management Graduate Certificate Program](https://online-distance.ncsu.edu/program/graduate-certificate-in-applied-statistics-and-data-management/) for which this is my last course. Sometime in the next few weeks I will be applying to the [Masters of Science in Analytics](https://analytics.ncsu.edu/) program also here at NCSU. After that I hope to start my career in sports analytics.
 
 ### Hobbies
 
@@ -20,7 +20,7 @@ Things I like to do in my free time include:
 
 ### Pictures
 
-Here is a picture of the most photogenic dog on the planet, my choclate labrador Whiskey!
+Here is a picture of the most photogenic dog on the planet, my Chocolate Labrador  Whiskey!
 
 ![Whiskey]({{ site.baseurl }}/images/Whiskey.png)
 
