@@ -22,7 +22,7 @@ Things I like to do in my free time include:
 
 Here is a picture of the most photogenic dog on the planet, my choclate labrador Whiskey!
 
-![_config.yml]({{ site.baseurl }}/images/Whiskey.jpg)
+![Whiskey]({{ site.baseurl }}/images/Whiskey.jpg)
 
 ### Contact me
 
