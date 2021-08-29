@@ -20,7 +20,7 @@ Things I like to do in my free time include:
 
 ### Pictures
 
-Here is a picture of the most photogenic dog on the planet, my Chocolate Labrador Whiskey!
+Here is a picture of the most photogenic dog on the planet, my Chocolate Labrador Whiskey!  
 
 ![Whiskey]({{ site.baseurl }}/images/Whiskey.png)
 
