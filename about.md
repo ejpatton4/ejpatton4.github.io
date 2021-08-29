@@ -1,14 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me!
 permalink: /about/
 ---
+## General
 
-Some information about you!
-Testing! 54321!
-### More Information
+Hi! My name is Evan Patton and I am creating this GitHub Blog as an assignment for **ST 558** at *NC State University*.
 
-A place to include any other types of information that you'd like to include about yourself.
+I graduated from NC State in 2018 with a degree in Business Administration - Finance, right around the time I graduated however, I realzied I was more interested in statistics and data science. Since that point I have been working to get into that field of study, hence why I am in this course! 
+Currently I am in the [Applied Statistics and Data Management Graduate Certificate Progam](https://online-distance.ncsu.edu/program/graduate-certificate-in-applied-statistics-and-data-management/) for which this is my last course. Sometime in the next few weeks I will be applying to the [Masters of Science in Analytics](https://analytics.ncsu.edu/) program also here at NCSU. After that I hope to start my career in sports analytics.
+
+### Hobbies
+
+Things I like to do in my free time include:  
+* Learning about history, in fact I just got my copy of *Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution* By Mike Duncan
 
 ### Contact me
 
