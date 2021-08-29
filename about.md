@@ -13,7 +13,8 @@ Currently I am in the [Applied Statistics and Data Management Graduate Certifica
 ### Hobbies
 
 Things I like to do in my free time include:  
-* Learning about history, in fact I just got my copy of *Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution* By Mike Duncan
+* Learning about history, in fact I just got my copy of *Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution* By Mike Duncan.  
+* Watching sports, mostly the Chicago Sports teams, except for the White Sox, and NC State.
 
 ### Contact me
 
