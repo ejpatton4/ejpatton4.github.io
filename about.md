@@ -14,8 +14,19 @@ Currently I am in the [Applied Statistics and Data Management Graduate Certifica
 
 Things I like to do in my free time include:  
 * Learning about history, in fact I just got my copy of *Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution* By Mike Duncan.  
-* Watching sports, mostly the Chicago Sports teams, except for the White Sox, and NC State.
+* Watching sports, mostly the Chicago Sports teams (Cubs not White Sox) and NC State.
+* Analyzing football data in R.
+* Exploring Raleighs many nature trails with my wife and two dogs.
+
+### Pictures
+
+Here is a picture of the most photogenic dog on the planet, my choclate labrador Whiskey!
+
+![_config.yml]({{ site.baseurl }}/images/Whiskey.jpg)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ejpatton@ncsu.edu](mailto:ejpatton@ncsu.edu)
+[ejpatton4@gmail.com](mailto:ejpatton4@gmail.com)
+[Personal Twitter](https://twitter.com/evanjpatton4)
+[Twitter for Sports Analytics](https://twitter.com/beaR_alytics) 
