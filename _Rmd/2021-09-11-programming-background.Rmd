@@ -11,7 +11,6 @@ knitr::opts_chunk$set(eval = TRUE, echo = TRUE, message = FALSE, warning = FALSE
 ## Programming Experience Before ST 558
 
 Before starting this course my programming experience was:  
-
 * SAS     [Certified](https://www.certmetrics.com/SAS/public/candidate_directory_search.aspx) in Base Programming 9.4  
 * R       Have been teaching myself and using [Datacamp](https://www.datacamp.com/) for about 1.5 years.  
 * SQL     Limited experience, but a general understanding.  
