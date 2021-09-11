@@ -5,15 +5,13 @@ Evan Patton
 
 ## Programming Experience Before ST 558
 
-Before starting this course my programming experience was:
-
--   **SAS** -
-    [Certified](https://www.certmetrics.com/SAS/public/candidate_directory_search.aspx)
-    in Base Programming 9.4  
--   **R** - Have been teaching myself and using
-    [Datacamp](https://www.datacamp.com/) for about 1.5 years.  
--   **SQL** - Limited experience, but a general understanding.  
--   **Python** - Very limited experience.
+Before starting this course my programming experience was:  
+\* **SAS**
+[Certified](https://www.certmetrics.com/SAS/public/candidate_directory_search.aspx)
+in Base Programming 9.4 \* **R** Have been teaching myself and using
+[Datacamp](https://www.datacamp.com/) for about 1.5 years. \* **SQL**
+Limited experience, but a general understanding. \* **Python** Very
+limited experience.
 
 Personally R is my favorite program and language that I have used so
 far. I think R tends to be more user friendly and there is often a lot
