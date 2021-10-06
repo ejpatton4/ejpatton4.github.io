@@ -1,0 +1,43 @@
+---
+title: "Project One"
+author: "Evan Patton"
+date: "10/5/2021"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Introduction
+
+This post is for my first project in ST 558.
+
+# The Project
+
+My assignment was to create a vignette for an API, similar to this one for some [NHL data](https://jkclem.github.io/nhl-api-vignette/). We were given multiple choices of APIs to use, I chose the [Poke API](https://pokeapi.co/) as I have always been a fan of Pokemon and even though I am 26 years old will still play the new games when they come out. 
+
+In order to do this I created a github repo, which can be found [here](https://github.com/ejpatton4/ST558-Project1), and I enabled the "pages" feature to create a site for my vignette this site can be found [here](https://ejpatton4.github.io/ST558-Project1/).
+
+For the vignette I created 8 different functions, one of which is a wrapper function that allows the other 7 to be called from it, and these functions allow users to query different parts of the Poke API. 
+
+After creating all of the functions, I show a basic example of how to use them all. Finally, I do some exploratory data analysis with the data that I queried in the vignette.
+
+# Findings
+
+While doing my exploratory data analysis, I did not uncover anything ground breaking. However, I did find that there appears to be some relationship between a Pokemons size and their Base Stats. In order to find this I used the human BMI equation on a bunch of Pokemon and created scatter plots between their BMI and each individual base stat. The ones that appear to correlate the most were, Speed, Defense, and Special-Attack.
+
+# Reflection
+
+I quite enjoyed this project. Being able to combine my new R programming skills with an interest of mine that I have had since I was a little kid was fun for me. I was also able to learn some new things, while I have some R programming experience now I have never done something this extensive. Completing this and being happy with my work has given me great confidence moving forward that I can someday reach my dream of being a data scientist.
+
+If I could do anything differently, I think it would be two things.  
+1.  I would comment more throughout while I am creating the functions. This time I created them and went back and added comments after they were complete. This was a huge time drain and I think it would be more efficient if I added them while building the functions.  
+1.  I would be more consistent in the way my functions *function*. Looking back through my functions, I wasn't always consistent in how they were built, this bothers me a little bit and I will make sure anything like this I do in the future will be more consistent.
+
+The most difficult part of the project was the debugging of the functions I created. Hopefully, I will get better at this with practice.
+
+# Final Thoughts
+
+I am pleased with the way this turned out, it has been a great experience and I look forward to doing something like this again soon.
+
