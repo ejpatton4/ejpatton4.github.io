@@ -4,3 +4,10 @@ render("_Rmd/2021-09-11-programming-background.rmd",
        output_format = "github_document", 
        output_dir = "_posts",
        output_options = list(html_preview = FALSE))
+
+
+render("_Rmd/2021-10-05-st558-proj1.rmd", 
+       output_format = "github_document", 
+       output_dir = "_posts",
+       output_options = list(html_preview = FALSE,
+                             toc = TRUE))
