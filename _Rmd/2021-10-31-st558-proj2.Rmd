@@ -1,0 +1,37 @@
+---
+title: "Project Two"
+author: "Evan Patton"
+date: "10/31/2021"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Introduction
+
+This post is for my second project in ST 558.
+
+# The Project
+
+The purpose of this project was to work with my team mate, Samantha Hunter, to create models to predict the amount of shares that a news article will receive on social media. After getting the models created we created an R Markdown document in order to automate the creation of reports, for these models to predict about a few different news topics.
+
+The repository can be found [here.](https://github.com/SammHunter/558_Project2)
+
+The page where our project is housed is [here.](https://sammhunter.github.io/558_Project2/)
+
+# Reflection
+
+While overall I am pleased with how this project turned out, I do wish we were able to make the models a little bit better.
+
+I think if I could change anything I would've tried to spend more time building the models to try and improve them, however, I had a family medical situation which took a lot of my time during this project so I was not able to commit the time needed to make great models.
+
+The most difficult part of this project was trying to select the variables that would create good models. Not only was I limited in time as I just pointed out, but it was difficult because we were trying to make models for different topics. While some of the variables that are good for modeling with one topic might not be great with modeling for another. 
+
+My biggest take away from this project is that, this stuff is hard! There is a reason that data scientist and machine learning engineers get paid a lot of money and are becoming must haves in companies of all sizes. This experience will help me in the future as I hope to be creating models for a career sooner rather than later.
+
+# Final Thoughts
+
+This wasn't the easiest project in the world but the experience should prove invaluable to me for my long term career aspirations. I would also like to make sure I give a shout out to my partner Sam, she was a phenomenal partner in this project and was very understanding about my family medical situation. I would be happy to work with her again anytime, in a classroom setting or as a peer in our careers.
+
